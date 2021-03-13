@@ -25,4 +25,4 @@ flutter:
   fonts:
     - family: Roboto
       fonts:
-        - asset: assets/fonts/RobotoSlab.ttf
+        - asset: assets/fonts/roboto-slab.ttf

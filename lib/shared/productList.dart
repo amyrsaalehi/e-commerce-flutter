@@ -78,7 +78,7 @@ class _ProductListState extends State<ProductList> {
             ),
           ),
           Text(
-            product.desc.substring(0, 30),
+            '${product.desc.substring(0, 35)}...',
             style: TextStyle(
               fontSize: 14,
               color: Colors.grey[600],
